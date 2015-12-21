@@ -2,7 +2,7 @@
 layout: post
 title: Java Memory Model
 cover: cover.jpg
-date:   2015-12-12 22:00:00
+date:   2015-12-21 22:00:00
 categories: posts
 ---
 
