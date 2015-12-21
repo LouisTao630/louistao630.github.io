@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome GitHub! I'm coming!
+title: Java Memory Model
 cover: cover.jpg
-date:   2015-12-12 02:00:00
+date:   2015-12-12 22:00:00
 categories: posts
 ---
 
