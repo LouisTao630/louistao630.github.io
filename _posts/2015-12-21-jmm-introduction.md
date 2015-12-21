@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Memory Model
-cover: cover.jpg
+cover: bridge.jpg
 date:   2015-12-21 22:00:00
 categories: posts
 ---
